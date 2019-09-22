@@ -25,4 +25,4 @@ Increase the lambda duration time in case lambda is taking more than default 15 
 
 Video explaining the POC:
 
-https://www.youtube.com/watch?v=TbCNVApI4lA&list=PLt4YNKEVZK8-VM5FwFCXzlFmTFOWD0Tq2&index=48
+https://www.youtube.com/watch?v=TbCNVApI4lA
